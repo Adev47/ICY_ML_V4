@@ -2,3 +2,4 @@ Unlocker,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/
 Silent Chair,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/u237cgatAh2.exe
 Bubble Esp,updating,1.00.02,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Bubble_Beta.exe
 Bot Net,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/putty-64bit-0.81-installer.msi
+Token Checker,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/icy_token_checker.rar
