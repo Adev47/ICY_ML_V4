@@ -1,6 +1,6 @@
 Unlocker,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/AdvancedMW3_3.exe
 Silent Chair,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/u237cgatAh2.exe
-Bubble Esp,online,1.00.02,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Bubble_Beta.exe
+Bubble ESP MWIII,online,1.00.02,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Bubble_Beta.exe
 Loud Chair MWIII,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Loud_Chair.exe
 Spoofer MWIII,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Privacy_Protector_10.exe
 Densho Bo6,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Loud_Chair_1.exe
