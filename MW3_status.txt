@@ -3,3 +3,4 @@ Silent Chair,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/m
 Bubble Esp,updating,1.00.02,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Bubble_Beta.exe
 Loud Chair MWIII,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Loud_Chair.exe
 Spoofer MWIII,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Privacy_Protector_10.exe
+Proton Chair MWIII,updating,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Proton.exe
