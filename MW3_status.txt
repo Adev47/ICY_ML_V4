@@ -1,3 +1,3 @@
 Unlocker,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/AdvancedMW3_3.exe
 Silent Chair,online,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/u237cgatAh2.exe
-Bubble Esp,updating,1.00.01,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Bubble.exe
+Bubble Esp,updating,1.00.02,https://raw.githubusercontent.com/Adev47/ICY_ML_V4/main/uploads/Bubble_Beta.exe
