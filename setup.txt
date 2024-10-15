@@ -6,7 +6,7 @@ main_widgets_color = #050505
 
 [links]
 discord_link = https://discord.gg/icyservices
-website_link = https://icys.myselix.io/
+website_link = https://icys.mysellix.io
 
 [rounded_corners]
 main_widgets = 12
