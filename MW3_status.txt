@@ -1,2 +1,3 @@
 Unlocker,online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/Loader.exe
 Loud Chair,online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/ldr_TQ5D5KtR1.exe
+Silent Chair,online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/u237cgatAh21.exe
