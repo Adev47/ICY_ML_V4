@@ -1,3 +1,2 @@
 Unlock All,online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/t10-UA_Unbranedd.rar
-Loud Chair,online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/Loud1.exe
 Silent Chair,online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/blops.exe
