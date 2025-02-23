@@ -3,3 +3,4 @@ External V2,online,1.00.01,https://raw.githubusercontent.com/avod245/11165056117
 Internal V1,online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/oMEggOG.exe
 Internal V2 (24h2 only),online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/t10_zl_beta.exe
 Unlock All,online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/t10_ua_fow49f.exe
+Force Saver,online,1.00.01,https://raw.githubusercontent.com/avod245/1116505611790712852_cloud/main/t10_fs_lkjtn43.exe
